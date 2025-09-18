@@ -1,7 +1,7 @@
 # Hi, ich bin Sunny 👋  
 
 👨‍💻 **Schüler mit Leidenschaft für Programmieren & Technik**  
-🌱 Lerne aktuell: **JavaScript, React, Backend-Entwicklung & Cybersecurity**  
+🌱 Lerne aktuell: **Go, React, Backend-Entwicklung & Cybersecurity**  
 💡 Interessiert an: **Webentwicklung, Games, Automatisierung & Linux**  
 🚀 Ziel: **Projekte bauen, Skills verbessern & andere inspirieren**  
 
