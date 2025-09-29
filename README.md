@@ -20,7 +20,7 @@
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-critical)
 ![Git](https://img.shields.io/badge/Tool-Git-black)
 ![VSCode](https://img.shields.io/badge/Editor-VS%20Code-blue)
-![C#](https://img.shields.io/badge/Language-C%23-blue)
+![C#](https://img.shields.io/badge/Code-C%23-blue)
 
 
 ---
