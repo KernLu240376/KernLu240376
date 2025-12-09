@@ -1,8 +1,8 @@
 # Hi, ich bin Sunny 👋  
 
 👨‍💻 **Schüler mit Leidenschaft für Programmieren & Technik**  
-🌱 Lerne aktuell: **Go, Rust, Backend-Entwicklung & Cybersecurity**  
-💡 Interessiert an: **Webentwicklung, Games, Automatisierung & Linux**  
+🌱 Lerne aktuell: **Rust, Backend-Entwicklung & Cybersecurity**  
+💡 Interessiert an: **Cybersecurity, Webentwicklung, Games, Automatisierung & Linux**  
 🚀 Ziel: **Projekte bauen, Skills verbessern & andere inspirieren**  
 
 ---
@@ -33,7 +33,7 @@
 
 ### 🎮 Projekte, die mich interessieren
 - 🕹 **Game Development** mit **Godot** & JavaScript  
-- 🔐 **Cybersecurity** – kleine Tools & Lernprojekte  
+- 🔐 **Cybersecurity** – Tools, Lernprojekte & Automatisierung
 - 🐧 **Linux** – Skripte & Automatisierung  
 - 🌍 **Web & Backend** – React, Node.js, REST APIs  
 
